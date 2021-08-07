@@ -6,7 +6,16 @@
     <description>Recent content in Demo on Ruiting | Personal blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 06 Aug 2021 10:07:47 +0800</lastBuildDate><atom:link href="https://evachang0925.github.io/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Aug 2021 10:07:47 +0800</lastBuildDate><atom:link href="https://evachang0925.github.io/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>second post</title>
+      <link>https://evachang0925.github.io/blog/secondpost/</link>
+      <pubDate>Sat, 07 Aug 2021 10:07:47 +0800</pubDate>
+      
+      <guid>https://evachang0925.github.io/blog/secondpost/</guid>
+      <description>Second post </description>
+    </item>
+    
     <item>
       <title>first post</title>
       <link>https://evachang0925.github.io/blog/firstpost/</link>
