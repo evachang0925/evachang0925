@@ -1,41 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ruiting | Personal blog</title>
-    <link>https://evachang0925.github.io/</link>
-    <description>Recent content on Ruiting | Personal blog</description>
+    <title>Ruiting&#39;s Portfolio</title>
+    <link>https://evachamng0925.github.io/</link>
+    <description>Recent content on Ruiting&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sat, 07 Aug 2021 10:07:47 +0800</lastBuildDate><atom:link href="https://evachang0925.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 09 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://evachamng0925.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>second post</title>
-      <link>https://evachang0925.github.io/blog/secondpost/</link>
-      <pubDate>Sat, 07 Aug 2021 10:07:47 +0800</pubDate>
+      <title>Markdown Syntax Guide</title>
+      <link>https://evachamng0925.github.io/blog/markdown-syntax/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://evachang0925.github.io/blog/secondpost/</guid>
-      <description>Second post </description>
+      <guid>https://evachamng0925.github.io/blog/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>first post</title>
-      <link>https://evachang0925.github.io/blog/firstpost/</link>
-      <pubDate>Fri, 06 Aug 2021 10:07:47 +0800</pubDate>
+      <title>Ruiting Chang</title>
+      <link>https://evachamng0925.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://evachang0925.github.io/blog/firstpost/</guid>
-      <description>Hello World
-I&amp;rsquo;m Rui.
-Heading 1 Heading 2 Heading 4 Heading 6 I like to draw and design</description>
+      <guid>https://evachamng0925.github.io/about/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Hugo Shortcodes Demo</title>
-      <link>https://evachang0925.github.io/blog/shortcodestest/</link>
-      <pubDate>Fri, 06 Aug 2021 10:07:47 +0800</pubDate>
+      <title>Contact</title>
+      <link>https://evachamng0925.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evachang0925.github.io/blog/shortcodestest/</guid>
-      <description>Hugo shortcodes print(&amp;#34;Hello World&amp;#34;) Shortcodes
-  pic.twitter.com/HsDpvqDXKA
-&amp;mdash; 김한빈 (@shxx131bi131) April 25, 2018  </description>
+      <guid>https://evachamng0925.github.io/contact/</guid>
+      <description></description>
     </item>
     
   </channel>

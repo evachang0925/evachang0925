@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Ruiting | Personal blog</title>
-    <link>https://evachang0925.github.io/categories/</link>
-    <description>Recent content in Categories on Ruiting | Personal blog</description>
+    <title>Categories on Ruiting&#39;s Portfolio</title>
+    <link>https://evachamng0925.github.io/categories/</link>
+    <description>Recent content in Categories on Ruiting&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sat, 07 Aug 2021 10:07:47 +0800</lastBuildDate><atom:link href="https://evachang0925.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 09 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://evachamng0925.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Class demo</title>
-      <link>https://evachang0925.github.io/categories/class-demo/</link>
-      <pubDate>Sat, 07 Aug 2021 10:07:47 +0800</pubDate>
+      <title>syntax</title>
+      <link>https://evachamng0925.github.io/categories/syntax/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://evachang0925.github.io/categories/class-demo/</guid>
+      <guid>https://evachamng0925.github.io/categories/syntax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://evachamng0925.github.io/categories/themes/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://evachamng0925.github.io/categories/themes/</guid>
       <description></description>
     </item>
     
