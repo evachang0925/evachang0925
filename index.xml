@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ruiting&#39;s Portfolio</title>
-    <link>https://evachamng0925.github.io/</link>
+    <link>https://evachang0925.github.io/</link>
     <description>Recent content on Ruiting&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://evachamng0925.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://evachang0925.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://evachamng0925.github.io/blog/markdown-syntax/</link>
+      <link>https://evachang0925.github.io/blog/markdown-syntax/</link>
       <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://evachamng0925.github.io/blog/markdown-syntax/</guid>
+      <guid>https://evachang0925.github.io/blog/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Ruiting Chang</title>
-      <link>https://evachamng0925.github.io/about/</link>
+      <link>https://evachang0925.github.io/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://evachamng0925.github.io/about/</guid>
+      <guid>https://evachang0925.github.io/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://evachamng0925.github.io/contact/</link>
+      <link>https://evachang0925.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://evachamng0925.github.io/contact/</guid>
+      <guid>https://evachang0925.github.io/contact/</guid>
       <description></description>
     </item>
     
