@@ -173,29 +173,8 @@
     <loc>https://evachang0925.github.io/project/test/</loc>
     <lastmod>2021-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://evachang0925.github.io/tags/css/</loc>
-    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://evachang0925.github.io/tags/html/</loc>
-    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://evachang0925.github.io/tags/markdown/</loc>
-    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://evachang0925.github.io/project/markdown-syntax/</loc>
-    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://evachang0925.github.io/categories/syntax/</loc>
-    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://evachang0925.github.io/tags/themes/</loc>
-    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://evachang0925.github.io/categories/themes/</loc>
-    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://evachang0925.github.io/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
@@ -216,6 +195,27 @@
                 hreflang="en"
                 href="https://evachang0925.github.io/about/"
                 />
+  </url><url>
+    <loc>https://evachang0925.github.io/tags/css/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evachang0925.github.io/tags/html/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evachang0925.github.io/tags/markdown/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evachang0925.github.io/project/markdown-syntax/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evachang0925.github.io/categories/syntax/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evachang0925.github.io/tags/themes/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evachang0925.github.io/categories/themes/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://evachang0925.github.io/contact/</loc>
     <xhtml:link
