@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://evachang0925.github.io/blog/</loc>
-    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://evachang0925.github.io/categories/</loc>
     <lastmod>2021-08-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -67,7 +64,10 @@
     <loc>https://evachang0925.github.io/tags/markdown/</loc>
     <lastmod>2021-08-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://evachang0925.github.io/blog/markdown-syntax/</loc>
+    <loc>https://evachang0925.github.io/project/markdown-syntax/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evachang0925.github.io/project/</loc>
     <lastmod>2021-08-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://evachang0925.github.io/</loc>
@@ -209,11 +209,6 @@
                 />
   </url><url>
     <loc>https://evachang0925.github.io/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://evachang0925.github.io/de/contact/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
