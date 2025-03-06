@@ -1,7 +1,8 @@
 ### Nice to meet you!
 - 👋 Hi, I’m @evachang0925
-- 👀 I’m interested in designing and drawing.
-- 🌱 I’m currently learning UI/UX design and front-end coding.
+- 👀 I’m a game producer and UX-driven product thinker passionate about educational and transformational games. At CMU’s Entertainment Technology Center, I’ve led teams to develop interactive learning experiences, from gamified classroom tools to mobile games for social impact.
+With experience in game production, UX research, and product management, I love blending design, development, and learning science to create engaging experiences.
+- 🌱 I’m currently looking for opportunities in game production and edtech product management. Let’s connect!
 #### See ya! 
 <!--- 💞️ I’m looking to collaborate on ... --->
 <!--- 📫 How to reach me ... --->
